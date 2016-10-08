@@ -1,10 +1,12 @@
 {
   "name": "coaching-session-pwas",
   "version": "1.0.0",
-  "description": "",
+  "description": "Coaching Session about Progressive Web Apps",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run build | npm run serve",
+    "build": "cpx 'src/**/*.{html,js,css,svg,eot,woff}' build --watch",
+    "serve": "node server/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/ErikGrijzen/coaching-session-pwas/issues"
   },
-  "homepage": "https://github.com/ErikGrijzen/coaching-session-pwas#readme"
+  "homepage": "https://github.com/ErikGrijzen/coaching-session-pwas#readme",
+  "dependencies": {
+    "cpx": "^1.5.0",
+    "express": "^4.14.0"
+  }
 }

@@ -1,0 +1,51 @@
+html, body, h1, h2, h3, ul, li, button {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face{
+    font-family: "icons";
+    src: url("../fonts/icon-font.eot");
+    src: url("../fonts/icon-font.eot?#iefix") format('eot'),
+         url("../fonts/icon-font.woff") format('woff'),
+         url("../fonts/icon-font.ttf") format('truetype'),
+         url("../fonts/icon-font.svg") format('svg')
+}
+
+.header {
+    padding: 10px 20px;
+    background: #673ab7;
+    background: linear-gradient(-22deg, #673ab7 30%, #311b92 100%);
+    color: #fff;
+}
+
+.logo {
+    width: 160px;
+}
+
+.menu-button {
+    font-size: 32px;
+    color: #fff;
+    background: none;
+    border: 0;
+    float: right;
+    cursor: pointer;
+}
+
+.menu-button:after {
+    content: "\E006";
+    font-family: "icons";
+    font-size: 100%;
+    display: block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.main {
+    padding: 10px 20px;
+}

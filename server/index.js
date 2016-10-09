@@ -2,6 +2,7 @@ var fs = require('fs'),
     path = require('path'),
     https = require('https'),
     express = require('express'),
+    colors = require('colors/safe'),
     app = express();
 
 https.createServer({
@@ -9,4 +10,6 @@ https.createServer({
     cert: fs.readFileSync(path.resolve(__dirname, 'cert.pem'))
 }, app).listen(1234);
 
-app.use(express.static('build'));
+console.log(colors.green('*** Serving:', process.argv[2] + '/build'));
+
+app.use(express.static(process.argv[2] + '/build'));

@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Coaching Session about Progressive Web Apps",
   "main": "index.js",
+  "config": {
+    "exercise": "exercise-1"
+  },
   "scripts": {
     "start": "npm run copy | npm run serve",
-    "copy": "cpx 'src/**/*.*' build --watch",
-    "serve": "node server/index.js"
+    "copy": "cpx $npm_package_config_exercise'/src/**/*.*' $npm_package_config_exercise'/build' --watch",
+    "serve": "node server/index.js $npm_package_config_exercise"
   },
   "repository": {
     "type": "git",
@@ -19,6 +22,7 @@
   },
   "homepage": "https://github.com/ErikGrijzen/coaching-session-pwas#readme",
   "dependencies": {
+    "colors": "^1.1.2",
     "cpx": "^1.5.0",
     "express": "^4.14.0"
   }

@@ -4,7 +4,7 @@
   "description": "Coaching Session about Progressive Web Apps",
   "main": "index.js",
   "config": {
-    "exercise": "exercise-1"
+    "exercise": "exercise-2"
   },
   "scripts": {
     "start": "npm run copy | npm run serve",

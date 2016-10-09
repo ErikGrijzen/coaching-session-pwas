@@ -1,480 +1,60 @@
 {
-  "currentPage": 0,
-  "totalPages": 2,
-  "renderedHeadings": [
-    "Submitter",
-    "Speaker",
-    "NC/External",
-    "Products",
-    "Target Audience",
-    "Time",
-    "Status"
-  ],
-  "detailLines": [
+  "talks": [
     {
       "id": 120238517,
       "title": "Why to go for an external search engine in AEM projects - Searched Based Applications",
-      "relativeLink": "/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Searched+Based+Applications",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"daniel.schneiter\" href=\"/wiki/display/~daniel.schneiter\" data-linked-resource-id=\"15466838\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Daniel Schneiter</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span>Â </span><span>Â </span><a class=\"confluence-userlink user-mention\" data-username=\"daniel.schneiter\" href=\"/wiki/display/~daniel.schneiter\" data-linked-resource-id=\"15466838\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Daniel Schneiter</a><span>Â &amp; <a class=\"confluence-userlink user-mention\" data-username=\"gary.murray\" href=\"/wiki/display/~gary.murray\" data-linked-resource-id=\"70783310\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Gary Murray</a> <img class=\"emoticon emoticon-question\" src=\"/wiki/s/en_GB/6441/a6dcead450d087fde304eacebd4c0e7a772a5b20/_/images/icons/emoticons/help_16.png\" data-emoticon-name=\"question\" alt=\"(question)\" /></span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "AEM, Search (Search Based Applications @ UBS)",
-        "Everybody, especially account and project managers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
+      "url": "https://projects.netcentric.biz/wiki/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Searched+Based+Applications",
+      "speaker": "Daniel Schneiter",
+      "products": "AEM, Search (Search Based Applications @ UBS)",
+      "audience": "Everybody, especially account and project managers"
     },
     {
       "id": 120235545,
       "title": "Why to go for an external search engine in AEM projects - Experiences with Fusion",
-      "relativeLink": "/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Experiences+with+Fusion",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"jan.bernhardt\" href=\"/wiki/display/~jan.bernhardt\" data-linked-resource-id=\"92055880\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Jan Bernhardt</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"jan.bernhardt\" href=\"/wiki/display/~jan.bernhardt\" data-linked-resource-id=\"92055880\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Jan Bernhardt</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "AEM, Search (Lucidworks Fusion)",
-        "Everybody, especially AEM project manager.",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
+      "url": "https://projects.netcentric.biz/wiki/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Experiences+with+Fusion",
+      "speaker": "Jan Bernhardt",
+      "products": "AEM, Search (Lucidworks Fusion)",
+      "audience": "Everybody, especially AEM project manager."
     },
     {
-      "id": 120235069,
-      "title": "Holacracy Talk",
-      "relativeLink": "/display/BRAINERY/Holacracy+Talk",
-      "details": [
-        "<span xmlns=\"http://www.w3.org/1999/xhtml\" style=\"color: rgb(34,34,34);\">Holacracy Embassy</span><span xmlns=\"http://www.w3.org/1999/xhtml\"> circle</span>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span style=\"color: rgb(34,34,34);\">Holacracy Embassy</span> circle</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "Holacracy",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">60'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
+      "id": 120235545,
+      "title": "Why to go for an external search engine in AEM projects - Experiences with Fusion",
+      "url": "https://projects.netcentric.biz/wiki/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Experiences+with+Fusion",
+      "speaker": "Jan Bernhardt",
+      "products": "AEM, Search (Lucidworks Fusion)",
+      "audience": "Everybody, especially AEM project manager."
     },
     {
-      "id": 120235295,
-      "title": "Intercultural awareness",
-      "relativeLink": "/display/BRAINERY/Intercultural+awareness",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"cristina.garcia\" href=\"/wiki/display/~cristina.garcia\" data-linked-resource-id=\"70094132\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Cristina Garcia</a></p><p><a class=\"confluence-userlink user-mention\" data-username=\"romina.seminario\" href=\"/wiki/display/~romina.seminario\" data-linked-resource-id=\"95083073\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Romina Seminario</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><cite class=\"_Rm\">www.<strong>pellegrino</strong>-<strong>riccardi</strong>.com/</cite></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><div class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div><p><span class=\"status-macro aui-lozenge aui-lozenge-current conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">EXTERNAL</span></p></div>",
-        "AMC",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
+      "id": 120235545,
+      "title": "Why to go for an external search engine in AEM projects - Experiences with Fusion",
+      "url": "https://projects.netcentric.biz/wiki/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Experiences+with+Fusion",
+      "speaker": "Jan Bernhardt",
+      "products": "AEM, Search (Lucidworks Fusion)",
+      "audience": "Everybody, especially AEM project manager."
     },
     {
-      "id": 120235446,
-      "title": "The AEM Software Delivery Pipeline",
-      "relativeLink": "/display/BRAINERY/The+AEM+Software+Delivery+Pipeline",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"georg.henzler\" href=\"/wiki/display/~georg.henzler\" data-linked-resource-id=\"54526813\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Georg Henzler</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p>Potential candidates:</p><p><a class=\"confluence-userlink user-mention\" data-username=\"georg.henzler\" href=\"/wiki/display/~georg.henzler\" data-linked-resource-id=\"54526813\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Georg Henzler</a><span>Â <a class=\"confluence-userlink user-mention\" data-username=\"tomasz.locwin\" href=\"/wiki/display/~tomasz.locwin\" data-linked-resource-id=\"79228219\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Tomasz ÅoÄ‡win</a> <a class=\"confluence-userlink user-mention\" data-username=\"conrad.woeltge\" href=\"/wiki/display/~conrad.woeltge\" data-linked-resource-id=\"75239137\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Conrad W&ouml;ltge</a></span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "AEM + Jenkins",
-        "AEM Tech Leads, Developers, System Engineers, Project Managers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
+      "id": 120235545,
+      "title": "Why to go for an external search engine in AEM projects - Experiences with Fusion",
+      "url": "https://projects.netcentric.biz/wiki/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Experiences+with+Fusion",
+      "speaker": "Jan Bernhardt",
+      "products": "AEM, Search (Lucidworks Fusion)",
+      "audience": "Everybody, especially AEM project manager."
     },
     {
-      "id": 120235419,
-      "title": "DevOps - Jenkins-pipeline as PoC for one of our NC project",
-      "relativeLink": "/display/BRAINERY/DevOps+-+Jenkins-pipeline+as+PoC+for+one+of+our+NC+project",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"tomasz.locwin\" href=\"/wiki/display/~tomasz.locwin\" data-linked-resource-id=\"79228219\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Tomasz ÅoÄ‡win</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"tomasz.locwin\" href=\"/wiki/display/~tomasz.locwin\" data-linked-resource-id=\"79228219\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Tomasz ÅoÄ‡win</a></p><p>(TBD)</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span>Â </p></div>",
-        "AEM, Infrastructure",
-        "Developers, System Engineers, Project Managers, QA",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span>Â </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
+      "id": 120235545,
+      "title": "Why to go for an external search engine in AEM projects - Experiences with Fusion",
+      "url": "https://projects.netcentric.biz/wiki/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Experiences+with+Fusion",
+      "speaker": "Jan Bernhardt",
+      "products": "AEM, Search (Lucidworks Fusion)",
+      "audience": "Everybody, especially AEM project manager."
     },
     {
-      "id": 120235435,
-      "title": "Design patterns in AEM projects",
-      "relativeLink": "/display/BRAINERY/Design+patterns+in+AEM+projects",
-      "details": [
-        "Oscar Farga",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p>Oscar Farga</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "AEM",
-        "devs",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">60'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120235309,
-      "title": "AEM Security + Akamai/CDN and Caching on duty for DHL / DPDHL",
-      "relativeLink": "/pages/viewpage.action?pageId=120235309",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"tomasz.locwin\" href=\"/wiki/display/~tomasz.locwin\" data-linked-resource-id=\"79228219\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Tomasz ÅoÄ‡win</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"tomasz.locwin\" href=\"/wiki/display/~tomasz.locwin\" data-linked-resource-id=\"79228219\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Tomasz ÅoÄ‡win</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span>Â </p></div>",
-        "AEM, Dispatcher, Security, Akamai/CDN, SCA",
-        "Developers, System Engineers, Project Managers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120234870,
-      "title": "Enterprise Asset Management: Making a case for AEM Assets",
-      "relativeLink": "/display/BRAINERY/Enterprise+Asset+Management%3A+Making+a+case+for+AEM+Assets",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"christine.hart\" href=\"/wiki/display/~christine.hart\" data-linked-resource-id=\"66723080\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Christine Hart</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"christine.hart\" href=\"/wiki/display/~christine.hart\" data-linked-resource-id=\"66723080\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Christine Hart</a> (Greg Klebus)</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p><p><span class=\"status-macro aui-lozenge aui-lozenge-current conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">EXTERNAL</span> </p></div>",
-        "AEM Assets",
-        "Consultants/ Requirements Engineers /Project Managers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">60'</span> </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120234728,
-      "title": "4th evolution of how we host our internal service and develop systems",
-      "relativeLink": "/display/BRAINERY/4th+evolution+of+how+we+host+our+internal+service+and+develop+systems",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"jacob.verhoeks\" href=\"/wiki/display/~jacob.verhoeks\" data-linked-resource-id=\"111267490\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Jacob Verhoeks</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"jacob.verhoeks\" href=\"/wiki/display/~jacob.verhoeks\" data-linked-resource-id=\"111267490\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Jacob Verhoeks</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "Infrastructure",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120234714,
-      "title": "Campaign AEM Interface for UBS Investment Bank",
-      "relativeLink": "/display/BRAINERY/Campaign+AEM+Interface+for+UBS+Investment+Bank",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"christine.hart\" href=\"/wiki/display/~christine.hart\" data-linked-resource-id=\"66723080\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Christine Hart</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"jose.rivera\" href=\"/wiki/display/~jose.rivera\" data-linked-resource-id=\"29065219\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Jos&eacute; Ram&oacute;n Rivera</a> <a class=\"confluence-userlink user-mention\" data-username=\"samir.caus\" href=\"/wiki/display/~samir.caus\" data-linked-resource-id=\"41487780\" data-linked-resource-version=\"3\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Samir Caus</a> <a class=\"confluence-userlink user-mention\" data-username=\"christine.hart\" href=\"/wiki/display/~christine.hart\" data-linked-resource-id=\"66723080\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Christine Hart</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span> </p></div>",
-        "AEM, AC, 3rd Party Integrations",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span> </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120234708,
-      "title": "Let's stay on the safe side",
-      "relativeLink": "/display/BRAINERY/Let%27s+stay+on+the+safe+side",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"lorenzo.cubero\" href=\"/wiki/display/~lorenzo.cubero\" data-linked-resource-id=\"65678522\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Lorenzo Cubero</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"lorenzo.cubero\" href=\"/wiki/display/~lorenzo.cubero\" data-linked-resource-id=\"65678522\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Lorenzo Cubero</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "Tools and Internal Services we use on a daily basis.",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span>Â </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120234538,
-      "title": "Fintech trends",
-      "relativeLink": "/display/BRAINERY/Fintech+trends",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"roman.mueller\" href=\"/wiki/display/~roman.mueller\" data-linked-resource-id=\"3112971\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Roman M&uuml;ller</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"roman.mueller\" href=\"/wiki/display/~roman.mueller\" data-linked-resource-id=\"3112971\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Roman M&uuml;ller</a>, <a class=\"confluence-userlink user-mention\" data-username=\"marco.looser@raiffeisen.ch\" href=\"/wiki/display/~marco.looser@raiffeisen.ch\" data-linked-resource-id=\"80420214\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Marco Looser</a> (Raiffeisen)</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span> and <span class=\"status-macro aui-lozenge aui-lozenge-current conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">EXTERNAL</span></p></div>",
-        "Several technologies",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119518801,
-      "title": "Holacracy",
-      "relativeLink": "/display/BRAINERY/Holacracy",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"samir.caus\" href=\"/wiki/display/~samir.caus\" data-linked-resource-id=\"41487780\" data-linked-resource-version=\"3\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Samir Caus</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"hansjuerg.huerzeler\" href=\"/wiki/display/~hansjuerg.huerzeler\" data-linked-resource-id=\"58034045\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Hansj&uuml;rg H&uuml;rzeler</a> contact</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-current conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">EXTERNAL</span></p></div>",
-        "Holacracy",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">60'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120234282,
-      "title": "Apprenticeships",
-      "relativeLink": "/display/BRAINERY/Apprenticeships",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"evan.payne\" href=\"/wiki/display/~evan.payne\" data-linked-resource-id=\"92053845\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Evan Payne</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p>Dan Mall</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-current conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">EXTERNAL</span></p></div>",
-        "Â ",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120234253,
-      "title": "Living Style Guides: Untangling the Mess",
-      "relativeLink": "/display/BRAINERY/Living+Style+Guides%3A+Untangling+the+Mess",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"evan.payne\" href=\"/wiki/display/~evan.payne\" data-linked-resource-id=\"92053845\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Evan Payne</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"evan.payne\" href=\"/wiki/display/~evan.payne\" data-linked-resource-id=\"92053845\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Evan Payne</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "Raiffeisen LSG",
-        "Developers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">60'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119521100,
-      "title": "Netcentric as sub-contractor in a Scrum-environment - How it works",
-      "relativeLink": "/display/BRAINERY/Netcentric+as+sub-contractor+in+a+Scrum-environment+-+How+it+works",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"kerstin.menne\" href=\"/wiki/display/~kerstin.menne\" data-linked-resource-id=\"73764418\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Kerstin Menne</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"kerstin.menne\" href=\"/wiki/display/~kerstin.menne\" data-linked-resource-id=\"73764418\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Kerstin Menne</a><span>Â </span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "AEM",
-        "Project Managers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span> </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120227680,
-      "title": "Cultivate Respect - A look at how we live our value",
-      "relativeLink": "/display/BRAINERY/Cultivate+Respect+-+A+look+at+how+we+live+our+value",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"cedric.verardo\" href=\"/wiki/display/~cedric.verardo\" data-linked-resource-id=\"39126238\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">C&eacute;dric Verardo</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"cedric.verardo\" href=\"/wiki/display/~cedric.verardo\" data-linked-resource-id=\"39126238\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">C&eacute;dric Verardo</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "N/A",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 120225989,
-      "title": "Productivity and Getting Things Done",
-      "relativeLink": "/display/BRAINERY/Productivity+and+Getting+Things+Done",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"samir.caus\" href=\"/wiki/display/~samir.caus\" data-linked-resource-id=\"41487780\" data-linked-resource-version=\"3\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Samir Caus</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"samir.caus\" href=\"/wiki/display/~samir.caus\" data-linked-resource-id=\"41487780\" data-linked-resource-version=\"3\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Samir Caus</a> / <a class=\"confluence-userlink user-mention\" data-username=\"hansjuerg.huerzeler\" href=\"/wiki/display/~hansjuerg.huerzeler\" data-linked-resource-id=\"58034045\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Hansj&uuml;rg H&uuml;rzeler</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "Â ",
-        "Â ",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119524497,
-      "title": "\"Real Integration\" De-mystifying and De-hyping Adobe Marketing Cloud integration points between products",
-      "relativeLink": "/pages/viewpage.action?pageId=119524497",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"scott.simmer\" href=\"/wiki/display/~scott.simmer\" data-linked-resource-id=\"96218325\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Scott Simmer</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"scott.simmer\" href=\"/wiki/display/~scott.simmer\" data-linked-resource-id=\"96218325\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Scott Simmer</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "AC, AEM, AA, AAM",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119518703,
-      "title": "Server instability detection: a Machine Learning application",
-      "relativeLink": "/display/BRAINERY/Server+instability+detection%3A+a+Machine+Learning+application",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"antonio.bianchetti\" href=\"/wiki/display/~antonio.bianchetti\" data-linked-resource-id=\"39126702\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Antonio Bianchetti</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"antonio.bianchetti\" href=\"/wiki/display/~antonio.bianchetti\" data-linked-resource-id=\"39126702\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Antonio Bianchetti</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span><span style=\"color: rgb(112,112,112);\">Â </span> </p></div>",
-        "AEM, Tensorflow",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span><p>Â </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119520953,
-      "title": "The typical pitfalls in Marketing Automation projects - and how to avoid them",
-      "relativeLink": "/display/BRAINERY/The+typical+pitfalls+in+Marketing+Automation+projects+-+and+how+to+avoid+them",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"maya.reinshagen\" href=\"/wiki/display/~maya.reinshagen\" data-linked-resource-id=\"72911450\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Maya Reinshagen</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"maya.reinshagen\" href=\"/wiki/display/~maya.reinshagen\" data-linked-resource-id=\"72911450\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Maya Reinshagen</a><span>Â </span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span> </p></div>",
-        "Adobe Campaign",
-        "Everybody",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span> </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119520086,
-      "title": "Adobe Campaign at Miles & More",
-      "relativeLink": "/pages/viewpage.action?pageId=119520086",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"marko.donke\" href=\"/wiki/display/~marko.donke\" data-linked-resource-id=\"21004345\" data-linked-resource-version=\"3\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Marko Donke</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p>tbd</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "Adobe Campaign",
-        "Everyone",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119518164,
-      "title": "Get ready for HTTP2 - New best practices for performance optimisation",
-      "relativeLink": "/display/BRAINERY/Get+ready+for+HTTP2+-+New+best+practices+for+performance+optimisation",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"fabian.krumbholz\" href=\"/wiki/display/~fabian.krumbholz\" data-linked-resource-id=\"48137764\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Fabian Krumbholz</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention current-user-mention\" data-username=\"erik.grijzen\" href=\"/wiki/display/~erik.grijzen\" data-linked-resource-id=\"65668258\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Erik Grijzen</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
-        "AEM",
-        "Developers / System Engineers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">60'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119519764,
-      "title": "Adobe Campaign OOTB integration with AEM",
-      "relativeLink": "/display/BRAINERY/Adobe+Campaign+OOTB+integration+with+AEM",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"marcanton.clavel\" href=\"/wiki/display/~marcanton.clavel\" data-linked-resource-id=\"66718406\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Marc-Anton Clavel</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"chris.merriman\" href=\"/wiki/display/~chris.merriman\" data-linked-resource-id=\"111185264\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Chris Merriman</a>, <a class=\"confluence-userlink user-mention\" data-username=\"jose.perez\" href=\"/wiki/display/~jose.perez\" data-linked-resource-id=\"79217794\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Jose Perez</a>?, <a class=\"confluence-userlink user-mention\" data-username=\"scott.simmer\" href=\"/wiki/display/~scott.simmer\" data-linked-resource-id=\"96218325\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Scott Simmer</a>?</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span> </p></div>",
-        "Adobe Campaign, Adobe Experience Manager",
-        "Everybody interested, Adobe Campaign Devs &amp; Consultants, AEM curious devs",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span> </p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119519441,
-      "title": "Progressive Web Apps in the Real World",
-      "relativeLink": "/display/BRAINERY/Progressive+Web+Apps+in+the+Real+World",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention current-user-mention\" data-username=\"erik.grijzen\" href=\"/wiki/display/~erik.grijzen\" data-linked-resource-id=\"65668258\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Erik Grijzen</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p>Dean Hume</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-current conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">EXTERNAL</span></p></div>",
-        "AEM",
-        "Developers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119518756,
-      "title": "Delivering Knowledge: Machine Learning opportunities for our clients",
-      "relativeLink": "/display/BRAINERY/Delivering+Knowledge%3A+Machine+Learning+opportunities+for+our+clients",
-      "details": [
-        "<a class=\"confluence-userlink user-mention\" data-username=\"antonio.bianchetti\" href=\"/wiki/display/~antonio.bianchetti\" data-linked-resource-id=\"39126702\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Antonio Bianchetti</a>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"antonio.bianchetti\" href=\"/wiki/display/~antonio.bianchetti\" data-linked-resource-id=\"39126702\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Antonio Bianchetti</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span><span style=\"color: rgb(112,112,112);\">Â </span> </p></div>",
-        "AMC",
-        "",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">30'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119518637,
-      "title": "Audience & Data Management Demystified",
-      "relativeLink": "/pages/viewpage.action?pageId=119518637",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"matthias.koenig\" href=\"/wiki/display/~matthias.koenig\" data-linked-resource-id=\"46007151\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Matthias K&ouml;nig</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"matthias.koenig\" href=\"/wiki/display/~matthias.koenig\" data-linked-resource-id=\"46007151\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Matthias K&ouml;nig</a><span>Â </span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span><span style=\"color: rgb(112,112,112);\">Â </span> </p></div>",
-        "Analytics, Audience Manager, Target",
-        "Everybody (it might be less technical) - especially project managers / consultants who want to have more information on A&amp;DM with the Marketing Cloud.",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
-      "id": 119518192,
-      "title": "Help your protege to develop her/his skills",
-      "relativeLink": "/pages/viewpage.action?pageId=119518192",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention\" data-username=\"andreas.nowotny\" href=\"/wiki/display/~andreas.nowotny\" data-linked-resource-id=\"3112984\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Andreas Nowotny</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span>Â </span><a class=\"confluence-userlink user-mention\" data-username=\"andreas.nowotny\" href=\"/wiki/display/~andreas.nowotny\" data-linked-resource-id=\"3112984\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Andreas Nowotny</a><span>Â </span> &amp; others</p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span><span style=\"color: rgb(112,112,112);\">Â </span></p></div>",
-        "None",
-        "Advocates",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
+      "id": 120235545,
+      "title": "Why to go for an external search engine in AEM projects - Experiences with Fusion",
+      "url": "https://projects.netcentric.biz/wiki/display/BRAINERY/Why+to+go+for+an+external+search+engine+in+AEM+projects+-+Experiences+with+Fusion",
+      "speaker": "Jan Bernhardt",
+      "products": "AEM, Search (Lucidworks Fusion)",
+      "audience": "Everybody, especially AEM project manager."
     }
-  ],
-  "asyncRenderSafe": true
+  ]
 }

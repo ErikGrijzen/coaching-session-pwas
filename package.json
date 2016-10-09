@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ErikGrijzen/coaching-session-pwas#readme",
   "dependencies": {
     "colors": "^1.1.2",
+    "compression": "^1.6.2",
     "cpx": "^1.5.0",
     "express": "^4.14.0"
   }

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run copy | npm run serve",
-    "copy": "cpx 'src/**/*.{html,js,json,css,svg,eot,woff,png}' build --watch",
+    "copy": "cpx 'src/**/*.*' build --watch",
     "serve": "node server/index.js"
   },
   "repository": {

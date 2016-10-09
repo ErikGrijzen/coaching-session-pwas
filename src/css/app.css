@@ -7,6 +7,11 @@ button {
     background: none;
     border: 0;
     cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+*:focus {
+    outline: none;
 }
 
 @font-face {
@@ -25,6 +30,7 @@ button {
     background: #673ab7;
     background: linear-gradient(-22deg, #673ab7 30%, #311b92 100%);
     color: #fff;
+    z-index: 3;
 }
 
 .header__logo {
@@ -59,6 +65,7 @@ button {
     left: -100%;
     bottom: 0;
     transition: left .2s;
+    z-index: 2;
 }
 
 .navigation-is-active .navigation__base {
@@ -66,29 +73,56 @@ button {
 }
 
 .navigation__listItem {
-    padding: 20px;
     border-bottom: 1px solid #875ad7;
 }
 
 .navigation__btn {
-    font-size: 24px;
+    font-size: 18px;
     color: white;
+    width: 100%;
+    text-align: left;
+    padding: 20px 10px;
 }
 
 .main {
-    padding: 65px 20px 10px;
+    padding: 20px 20px 10px;
+    height: calc(100% - 85px);
+    overflow: auto;
+    position: absolute;
+    top: 55px;
+    z-index: 1;
 }
 
-.talks_list {
+.talks__list {
     list-style: none;
 }
 
 .talks__listItem {
     background: #ededed;
     padding: 20px;
-    font-size: 18px;
-    font-weight: bold;
     margin-bottom: 10px;
+}
+
+.talks__title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.talks__speaker {
+    margin-top: 10px;
+}
+
+.talks__speaker,
+.talks__category,
+.talks__audience {
+    font-size: 12px;
+    margin: 0;
+}
+
+.talks__speaker a {
+    font-size: 12px;
+    pointer-events: none;
+    text-decoration: none;
 }
 
 /* Loader */

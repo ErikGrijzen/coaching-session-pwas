@@ -44,22 +44,6 @@
       "commentsCount": -1
     },
     {
-      "id": 120237764,
-      "title": "Building Progressive Web Apps in AEM",
-      "relativeLink": "/display/BRAINERY/Building+Progressive+Web+Apps+in+AEM",
-      "details": [
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention current-user-mention\" data-username=\"erik.grijzen\" href=\"/wiki/display/~erik.grijzen\" data-linked-resource-id=\"65668258\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Erik Grijzen</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><a class=\"confluence-userlink user-mention current-user-mention\" data-username=\"erik.grijzen\" href=\"/wiki/display/~erik.grijzen\" data-linked-resource-id=\"65668258\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Erik Grijzen</a></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span> </p></div>",
-        "AEM",
-        "Developers",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
-        "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
-      ],
-      "likesCount": -1,
-      "commentsCount": -1
-    },
-    {
       "id": 120235069,
       "title": "Holacracy Talk",
       "relativeLink": "/display/BRAINERY/Holacracy+Talk",
@@ -100,7 +84,7 @@
         "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p>Potential candidates:</p><p><a class=\"confluence-userlink user-mention\" data-username=\"georg.henzler\" href=\"/wiki/display/~georg.henzler\" data-linked-resource-id=\"54526813\" data-linked-resource-version=\"2\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Georg Henzler</a><span>Â <a class=\"confluence-userlink user-mention\" data-username=\"tomasz.locwin\" href=\"/wiki/display/~tomasz.locwin\" data-linked-resource-id=\"79228219\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Tomasz ÅoÄ‡win</a> <a class=\"confluence-userlink user-mention\" data-username=\"conrad.woeltge\" href=\"/wiki/display/~conrad.woeltge\" data-linked-resource-id=\"75239137\" data-linked-resource-version=\"1\" data-linked-resource-type=\"userinfo\" data-base-url=\"https://projects.netcentric.biz/wiki\">Conrad W&ouml;ltge</a></span></p></div>",
         "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge aui-lozenge-complete conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">NC</span></p></div>",
         "AEM + Jenkins",
-        "<p xmlns=\"http://www.w3.org/1999/xhtml\">AEM Tech Leads, Developers, System Engineers, Project Managers</p>",
+        "AEM Tech Leads, Developers, System Engineers, Project Managers",
         "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\" data-hasbody=\"false\" data-macro-name=\"status\">45'</span></p></div>",
         "<div xmlns=\"http://www.w3.org/1999/xhtml\" class=\"content-wrapper\"><p><span class=\"status-macro aui-lozenge conf-macro output-inline\">NEW</span></p></div>"
       ],

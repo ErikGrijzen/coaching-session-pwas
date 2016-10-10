@@ -1,0 +1,31 @@
+.talks__list {
+    list-style: none;
+}
+
+.talks__listItem {
+    background: #ededed;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.talks__title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.talks__speaker {
+    margin-top: 10px;
+}
+
+.talks__speaker,
+.talks__category,
+.talks__audience {
+    font-size: 12px;
+    margin: 0;
+}
+
+.talks__speaker a {
+    font-size: 12px;
+    pointer-events: none;
+    text-decoration: none;
+}

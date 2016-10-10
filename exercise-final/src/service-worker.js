@@ -1,24 +1,24 @@
-var appCacheName = 'ncSummitApp-ex-3';
-var dataCacheName = 'ncSummitData-ex-3';
-
-var filesToCache = [
+var appShellCacheName = 'ncSummitAppShell-0.0.3';
+var appDataCacheName = 'ncSummitData-0.0.3';
+var appShellCacheFiles= [
     '/',
     '/index.html',
-    '/manifest.json',
-    '/css/app.css',
+    '/css/main.css',
     '/js/app.js',
     '/images/logo__regular.svg',
     '/fonts/icon-font.woff',
+    '/fonts/icon-font.eot',
+    '/fonts/icon-font.svg',
 ];
 
 self.addEventListener('install', function (event) {
     console.log('[ServiceWorker] Install');
 
     event.waitUntil(
-        caches.open(appCacheName).then(function (cache) {
+        caches.open(appShellCacheName).then(function (cache) {
             console.log('[ServiceWorker] Caching app shell');
 
-            return cache.addAll(filesToCache);
+            return cache.addAll(appShellCacheFiles);
         })
     );
 });
@@ -29,7 +29,7 @@ self.addEventListener('activate', function (event) {
     event.waitUntil(
         caches.keys().then(function (keyList) {
             return Promise.all(keyList.map(function(key) {
-                if (key !== appCacheName && key !== dataCacheName) {
+                if (key !== appShellCacheName && key !== appDataCacheName) {
                     console.log('[ServiceWorker] Removing old cache', key);
 
                     return caches.delete(key);
@@ -42,15 +42,17 @@ self.addEventListener('activate', function (event) {
 });
 
 self.addEventListener('fetch', function (event) {
-    console.log('[ServiceWorker] Fetch', event.request.url);
+    console.log('[ServiceWorker] Fetch:', event.request.url);
 
     if (event.request.url.indexOf('api') > -1) {
         event.respondWith(
-            caches.open(dataCacheName).then(function(cache) {
-                return fetch(event.request).then(function(response) {
-                    cache.put(event.request.url, response.clone());
-                    return response;
-                });
+            caches.open(appDataCacheName).then(function(cache) {
+                return fetch(event.request)
+                    .then(function(response) {
+                        cache.put(event.request.url, response.clone());
+
+                        return response;
+                    });
             })
         );
     } else {

@@ -12,15 +12,7 @@
         loaderIsHiddenClass = 'is-hidden';
 
     function init() {
-        if (localStorage.talks) {
-            var talksData = JSON.parse(localStorage.talks);
-
-            renderTalksData(talksData);
-
-            hideLoader();
-        } else {
-            loadTalks();
-        }
+        loadTalks();
     }
 
     function showLoader() {
@@ -81,21 +73,21 @@
         main.innerHTML = list.outerHTML;
     }
 
-    function saveTalks(data) {
-        localStorage.talks = JSON.stringify(data);
-    };
-
     function loadTalks() {
+        var url = 'api/talks.json';
+
         showLoader();
 
-        fetch('api/talks.json')
-            .then(function (response) {
+        fetch(url)
+            .then(function(response) {
                 return response.json();
             })
-            .then(function (data) {
+            .then(function(data) {
                 renderTalksData(data);
-                saveTalks(data);
 
+                hideLoader();
+            })
+            .catch(function() {
                 hideLoader();
             });
     }

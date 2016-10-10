@@ -103,10 +103,10 @@
         }
 
         fetch(url)
-            .then(function (response) {
+            .then(function(response) {
                 return response.json();
             })
-            .then(function (data) {
+            .then(function(data) {
                 renderTalksData(data);
 
                 hideLoader();

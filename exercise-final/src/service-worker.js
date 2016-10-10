@@ -3,8 +3,8 @@ var appDataCacheName = 'ncSummitData-0.0.3';
 var appShellCacheFiles= [
     '/',
     '/index.html',
-    '/css/main.css',
-    '/js/app.js',
+    '/css/main.min.css',
+    '/js/app.min.js',
     '/images/logo__regular.svg',
     '/fonts/icon-font.woff',
     '/fonts/icon-font.eot',
